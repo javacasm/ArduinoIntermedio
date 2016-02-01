@@ -5,7 +5,7 @@
 ## CEP de Granada
 
 
-## 1,15,16 y 22  Febrero de 2016
+## 1, 15, 16 y 22  Febrero de 2016
 
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
@@ -25,7 +25,7 @@
   * Interrupciones hardware
   * Control avanzado de motores: distintas formas de hacerlo
   * Display: lcd, graphic lcd, led matrix
-  * Comunicaciones radio: RF 433, Zigbee, GPRS, Bluetooth, Jueves Tarde
+  * Comunicaciones radio: RF 433, Zigbee, GPRS, Bluetooth
   * Almacenamiento: EEPROM y SD
   * Protocolos de comunicaciones
 4. Más allá de Arduino
