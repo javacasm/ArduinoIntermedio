@@ -1,14 +1,13 @@
-# Programar Para Educar
+# Arduino: [Nivel Intermedio](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=159721)
 
-## Curso del CEP de Granada
 
-## Enero de 2016
+## José Antonio Vacas @javacasm
+## CEP de Granada
 
-[Calendario](./Indice.md)
 
-### José Antonio Vacas @javacasm
+## 1, 15, 16 y 22  Febrero de 2016
 
-![CCbySA](imagenes/CCbySQ_88x31.png)
+![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 
 # Programando con Bitbloq
