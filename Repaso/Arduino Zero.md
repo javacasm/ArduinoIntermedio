@@ -1,15 +1,25 @@
+# Arduino: [Nivel Intermedio](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=159721)
+
+
+## José Antonio Vacas @javacasm
+## CEP de Granada
+
+
+## 1, 15, 16 y 22  Febrero de 2016
+
+![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 # Arduino Zero
 
 ![arduino zero](http://arduino.cc/en/uploads/Main/Arduino_Zero_front450.png)
 
-Constántemente estamos viendo nuevos avances y productos en el entorno del open-source. 
+Constántemente estamos viendo nuevos avances y productos en el entorno del open-source.
 
 |Arduino Zero| |
 |---|---|
 |Microcontrolador|ATSAMD21G18, 48pins LQFP|
 |Voltaje|3.3V|
-|Pines Digitales I/O|14, with 12 PWM y UART| 
+|Pines Digitales I/O|14, with 12 PWM y UART|
 |Entradas Analógicas|6 canales, 12-bit ADC |
 |Salidas Analógicas|1 canal, 10-bit DAC|
 |Corriente DC por Pin I/O|7 mA|
