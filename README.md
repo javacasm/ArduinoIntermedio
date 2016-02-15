@@ -5,7 +5,7 @@
 ## CEP de Granada
 
 
-## 1, 15, 16 y 22  Febrero de 2016
+## 1, 15, 16 Febrero y 3 de Marzo de 2016
 
 ![CC](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
