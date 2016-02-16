@@ -734,24 +734,27 @@ Ejemplo: [lcd](http://arduino.cc/en/pmwiki.php?n=Reference/LiquidCrystal) o [ser
 
 ### El código
 
-	#include <Servo.h>  // Incluimos la librería
+	#include <Servo.h> // incluimos la librería
 
-	Servo servo;       // Declaramos que vamos a usar 1 servo
+	Servo servo;
 
-	void setup()
-	{
-	  servo.attach(7); // Configuramos el servo conectado al pin 7
+	void setup() {
+	servo.attach(9);  // Conectamos a la patilla 9
+
 	}
 
+	void loop() {
 
-	void loop()
-	{
-	  int valorPotenciometro=analogRead(A0); 					// Leemos el potenciometro
-	  int PosicionServo=map(valorPotenciometro,0,1023,0,180);	// Reescalamos el valor
-	  servo.write(valorPotenciometro);							// Le pedimos que gira hasta ese ángulo
-	  delay(50);												// Le damos tiempo para que complete el giro
+	// servo.write(120);  // va a la posición fija de 120º
 
-}
+	int potenciometro=analogRead(A0);  // entre 0 y 1023
+
+	int posicionServo=map(potenciometro,0,1023,0,180);
+
+	servo.write(posicionServo);
+
+	}
+
 ## Oscilación servo
 
 Podemos utilizar un bucle para hacer que el servo oscile entre las posiciones extremas
